@@ -1,4 +1,3 @@
-
 # 🏫 Smart Campus AI
 
 **Smart Campus AI** is an AI-powered campus management application designed to make college services smarter, faster, and more efficient.
